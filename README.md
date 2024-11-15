@@ -1,5 +1,5 @@
 # Piraten Kapern
-  * Author: < Safwan Khan >
+  * Author: Safwan Khan
  
 
 ## Build and Execution
@@ -13,10 +13,13 @@
   * To package the project as a turn-key artefact:
     * `mvn package`
   * To run the packaged delivery:
-    * `java -jar target/piraten-karpen-jar-with-dependencies.jar` 
+    * `java -jar target/piraten-karpen-jar-with-dependencies.jar`
+    <br> 
 
 
-
+## Application Pictures
+  ![](https://raw.githubusercontent.com/SafwanKhan112358/PiratenKapern-Simulator/refs/heads/main/Sample%20Simulation.jpeg)  
+  <br>
 ## Feature Backlog
 
  * Status: 
